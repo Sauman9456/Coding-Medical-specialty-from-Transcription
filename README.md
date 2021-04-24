@@ -1,14 +1,7 @@
 ﻿
+#Coding Medical specialty from Transcription
 
-I D E N T I F Y T H E M E D I C A L P A C K A G E S G I V E N
-
-T H E M E D I C A L D E S C R I P T I O N C O N T A I N I N G
-
-D E T A I L S O F P A S T H I S T O R Y , I L L N E S S ,
-
-D I A G N O S I S , E T C .
-
-
+The transcription tell us about the medical case , however the medical term that refer to the complete transcription is the medical specialty and that is more close to the standard medical term . Our task is here to map correct medical specialty to the corresponding transcription.
 
 
 
@@ -83,14 +76,6 @@ B: Specific word-vector index
 C: TFIDF score for word B in document A
 
 • It indicates the tfidf score for all non-zero values in the word vector for each document.
-
-
-
-
-
-**D A T A M O D E L I N G :**
-
-**A P P R O A C H \_ 1**
 
 • **Step\_4: PCA(Principal Component Analysis)**
 
